@@ -1,4 +1,4 @@
-👋 Hi I'm Amit Kumar, a Data Analyst - Data & Analytics @Sapalogy at Nagpur, Maharashtra, INDIA.
+👋 Hi I'm Amit Kumar, a Data Analyst - Data & Analytics @ Nagpur, Maharashtra, INDIA.
 I am overall having 3+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting, and driving business to a higher level.
 
 I have good knowledge of Python, SQL, AWS, SNOWFLAKE, ML, AdvancedExcel, Tableau & Power BI.
