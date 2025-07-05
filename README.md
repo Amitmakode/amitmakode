@@ -1,4 +1,4 @@
-👋 Hi I'm Aamit Kumar, a Data Analyst - Data & Analytics @ Nagpur, Maharashtra, INDIA.
+👋 Hi I'm Aamit Kumar, a Data Scientist - Data Analytics @ Nagpur, Maharashtra, INDIA.
 I am overall having 5+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting, and driving business to a higher level.
 
 I have good Python, SQL, Machine Learning, SNOWFLAKE, AdvancedExcel & Power BI knowledge.
