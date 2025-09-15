@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
 
 
-👋 Hello, I’m ***Aamit Kumar Makode***, a **Data Scientist @India** with **5+ years of experience**.  
+👋 Hello, I’m **Aamit Kumar Makode**, a **Data Scientist @India** with **5+ years of experience**.  
 🔭 I'm currently focused on Generative AI. Expanding expertise in **Generative AI, LLMs, and advanced neural networks**  
 
 ### 🚀 What Defines Me as a Data Scientist  
@@ -56,6 +56,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <!-- Flask -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+
+<!-- Pandas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+<!-- NumPy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+
+<!-- scikit-learn -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+
+<!-- TensorFlow -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+
+<!-- PyTorch -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+
+<!-- Matplotlib -->
+<img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+
+<!-- Seaborn -->
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="30"/>
+
+<!-- FastAPI -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+
 </p>
 
 
