@@ -40,15 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/pycharm.png" alt="PyCharm" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/postman-api.png" alt="Postman" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/excel.png" alt="Advanced Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/excel.png" alt="Excel" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="Hadoop" width="40" height="40"/>
   
   <!-- Data Science / AI -->
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flaticons/64/000000/external-machine-learning-agile-flaticons-lineal-color-flaticons.png" alt="ML" width="40" height="40"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-deep-learning-artificial-intelligence-flat-flat-juicy-fish.png" alt="DL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/brain.png" alt="CV" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/chatbot.png" alt="NLP" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/statistics.png" alt="Statistics" width="40" height="40"/>
 </p>
