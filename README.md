@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
 
 
-👋 Hello, I’m **Aamit Kumar Makode**, a **Data Scientist @India** with **5+ years of experience**.
+👋 Hello, I’m **Aamit Kumar Makode**, a **Data Scientist @India** with **5+ years of experience**.  
 🔭 I'm currently focused on Generative AI.
 
 ### 🌟 My Core Expertise
