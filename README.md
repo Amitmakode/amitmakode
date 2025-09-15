@@ -71,19 +71,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=vue-dark" alt="GitHub Stats" width="47%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&theme=vue-dark" alt="Top Languages" width="47%" />
-
+<div align="left">
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=amitmakode&theme=dark&hide_border=false" alt="GitHub Streak" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmakode&theme=dark" width="95%" alt="GitHub Streak"/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=onestar&margin-w=10&margin-h=15" alt="GitHub Trophies" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=flat&margin-w=10&margin-h=15" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
