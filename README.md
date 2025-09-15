@@ -69,5 +69,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=default" alt="Most Used Languages"/>
 </p>
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=vue-dark" alt="GitHub Stats" width="47%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&theme=vue-dark" alt="Top Languages" width="47%" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=amitmakode&theme=dark&hide_border=false" alt="GitHub Streak" width="95%" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=onestar&margin-w=10&margin-h=15" alt="GitHub Trophies" width="95%" />
+
+</div>
+
 
 
