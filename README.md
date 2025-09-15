@@ -4,7 +4,7 @@
 
 💼 A <strong>Data Scientist @India</strong> with <strong>5+ years of experience</strong>.  
 🔭 Currently focused on <strong>Generative AI</strong>, expanding expertise in <strong>LLMs</strong> and <strong>advanced neural networks</strong>.  
-🎓 Pursuing a <strong>PhD in Data Science</strong> to deepen research and applied knowledge.
+<!--🎓 Pursuing a <strong>PhD in Data Science</strong> to deepen research and applied knowledge.-->
 
 ### 🚀 What Defines Me as a Data Scientist  
 ✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications  
@@ -100,7 +100,7 @@
 
 ## 🔗 Connect with me:
 
-<p align="left">
+<!--<p align="left">
   <a href="https://www.kaggle.com/amitmakode" target="_blank">
     <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
       KAGGLE
@@ -136,7 +136,7 @@
       INSTAGRAM
     </kbd>
   </a>
-</p>
+</p>-->
 
 
 
