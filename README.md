@@ -52,19 +52,19 @@
 
 ## 📊 GitHub Stats & Analytics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=amitmakode&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=onestar" alt="GitHub Trophies" />
 </p>
 
