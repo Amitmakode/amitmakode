@@ -49,6 +49,26 @@
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-deep-learning-artificial-intelligence-flat-flat-juicy-fish.png" alt="DL" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/statistics.png" alt="Statistics" width="40" height="40"/>
+  <!-- AWS -->
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  
+  <!-- Machine Learning -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-machine-learning-artificial-intelligence-flat-flat-juicy-fish.png" alt="ML" width="40" height="40"/>
+  
+  <!-- Deep Learning -->
+  <img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-deep-learning-artificial-intelligence-wanicon-flat-wanicon.png" alt="DL" width="40" height="40"/>
+  
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  
+  <!-- Postman -->
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/>
+  
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  
+  <!-- Visual Studio Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 
