@@ -86,7 +86,7 @@
 </p>
 
 
-## 📊 GitHub Stats & Languages
+## 📊Languages
 
 <!-- GitHub Stats -->
 <p align="left">
