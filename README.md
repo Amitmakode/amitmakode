@@ -41,33 +41,6 @@
 
 ⚡ **Fun Fact:** An **Internationally Certified Career Coach & Mentor**, helping aspiring data scientists shape impactful careers
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=30)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats & Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&theme=vue-dark" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=amitmakode&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=onestar" alt="GitHub Trophies" />
-</p>
-
 
 
 
