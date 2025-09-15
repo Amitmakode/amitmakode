@@ -98,7 +98,7 @@
 
 </div>
 
-## 🔗 Connect with me:
+<!--## 🔗 Connect with me:-->
 
 <!--<p align="left">
   <a href="https://www.kaggle.com/amitmakode" target="_blank">
@@ -137,6 +137,13 @@
     </kbd>
   </a>
 </p>-->
+
+
+![Aamit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amitmakode&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amitmakode&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
