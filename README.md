@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
+
+
 👋 Hello, I’m **Aamit Kumar**, a **Data Scientist from India** with **5+ years of experience** in leveraging **machine learning, deep learning, and advanced statistical modeling** to solve complex business problems and drive data-powered innovation.
 
 💡 My expertise lies in designing and deploying **end-to-end data science solutions** — from **data acquisition and feature engineering** to **predictive modeling, optimization, and scalable deployment** — enabling organizations to move beyond dashboards and embrace **AI-driven decision-making**.
