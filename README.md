@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
 
 
-👋 Hello, I’m **Aamit Kumar Makode**, a **Data Scientist @India** with **5+ years of experience**.  
+👋 Hello, I’m ***Aamit Kumar Makode***, a **Data Scientist @India** with **5+ years of experience**.  
 🔭 I'm currently focused on Generative AI. Expanding expertise in **Generative AI, LLMs, and advanced neural networks**  
 
 ### 🚀 What Defines Me as a Data Scientist  
@@ -68,15 +68,6 @@
   <!-- Most Used Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=default" alt="Most Used Languages"/>
 </p>
-
-## 📈 GitHub Stats
-
-<div align="left">
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmakode&theme=dark" width="95%" alt="GitHub Streak"/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=flat&margin-w=10&margin-h=15" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
