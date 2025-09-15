@@ -52,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
     <!-- Apache Airflow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
-  <!-- MLflow -->
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" width="60" height="40"/>
 </p>
 
 
