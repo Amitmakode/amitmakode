@@ -73,26 +73,44 @@
 
 ## 🔗 Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.kaggle.com/amitmakode" target="_blank">
-    <kbd style="background:black; color:#0ff; font-weight:bold; padding:6px 12px; margin:5px; border-radius:6px; box-shadow:0 0 10px #0ff;">KAGGLE</kbd>
+    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
+      KAGGLE
+    </kbd>
   </a>
+
   <a href="https://yourwebsite.com" target="_blank">
-    <kbd style="background:black; color:#0ff; font-weight:bold; padding:6px 12px; margin:5px; border-radius:6px; box-shadow:0 0 10px #0ff;">WEBSITE</kbd>
+    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
+      WEBSITE
+    </kbd>
   </a>
+
   <a href="https://twitter.com/amitmakode" target="_blank">
-    <kbd style="background:black; color:#0ff; font-weight:bold; padding:6px 12px; margin:5px; border-radius:6px; box-shadow:0 0 10px #0ff;">TWITTER</kbd>
+    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
+      TWITTER
+    </kbd>
   </a>
+
   <a href="https://linkedin.com/in/amitmakode" target="_blank">
-    <kbd style="background:black; color:#0ff; font-weight:bold; padding:6px 12px; margin:5px; border-radius:6px; box-shadow:0 0 10px #0ff;">LINKEDIN</kbd>
+    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
+      LINKEDIN
+    </kbd>
   </a>
+
   <a href="https://medium.com/@amitmakode" target="_blank">
-    <kbd style="background:black; color:#0ff; font-weight:bold; padding:6px 12px; margin:5px; border-radius:6px; box-shadow:0 0 10px #0ff;">MEDIUM</kbd>
+    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
+      MEDIUM
+    </kbd>
   </a>
+
   <a href="https://instagram.com/amitmakode" target="_blank">
-    <kbd style="background:black; color:#0ff; font-weight:bold; padding:6px 12px; margin:5px; border-radius:6px; box-shadow:0 0 10px #0ff;">INSTAGRAM</kbd>
+    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
+      INSTAGRAM
+    </kbd>
   </a>
 </p>
+
 
 
 
