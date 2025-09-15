@@ -71,5 +71,33 @@
 
 </div>
 
+## Connect with me:
+
+<p align="left">
+  <a href="https://www.kaggle.com/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">KAGGLE</kbd>
+  </a>
+
+  <a href="https://yourwebsite.com" target="_blank" style="text-decoration:none;">
+    <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">WEBSITE</kbd>
+  </a>
+
+  <a href="https://twitter.com/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">TWITTER</kbd>
+  </a>
+
+  <a href="https://linkedin.com/in/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">LINKEDIN</kbd>
+  </a>
+
+  <a href="https://medium.com/@amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">MEDIUM</kbd>
+  </a>
+
+  <a href="https://instagram.com/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">INSTAGRAM</kbd>
+  </a>
+</p>
+
 
 
