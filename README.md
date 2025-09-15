@@ -63,7 +63,7 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Aamit's GitHub stats"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Aamit's GitHub stats"/> -->
   
   <!-- Most Used Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=default" alt="Most Used Languages"/>
@@ -98,6 +98,71 @@
     <kbd style="background-color:black; color:white; border-radius:3px; padding:5px 10px; margin-right:5px; font-weight:bold;">INSTAGRAM</kbd>
   </a>
 </p>
+
+## Connect with me:
+
+<p align="left">
+  <a href="https://www.kaggle.com/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="
+      background-color:black; color:white; border-radius:3px; padding:5px 12px; margin-right:6px; font-weight:bold;
+      transition: box-shadow 0.3s ease-in-out;
+      ">
+      KAGGLE
+    </kbd>
+  </a>
+
+  <a href="https://yourwebsite.com" target="_blank" style="text-decoration:none;">
+    <kbd style="
+      background-color:black; color:white; border-radius:3px; padding:5px 12px; margin-right:6px; font-weight:bold;
+      transition: box-shadow 0.3s ease-in-out;
+      ">
+      WEBSITE
+    </kbd>
+  </a>
+
+  <a href="https://twitter.com/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="
+      background-color:black; color:white; border-radius:3px; padding:5px 12px; margin-right:6px; font-weight:bold;
+      transition: box-shadow 0.3s ease-in-out;
+      ">
+      TWITTER
+    </kbd>
+  </a>
+
+  <a href="https://linkedin.com/in/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="
+      background-color:black; color:white; border-radius:3px; padding:5px 12px; margin-right:6px; font-weight:bold;
+      transition: box-shadow 0.3s ease-in-out;
+      ">
+      LINKEDIN
+    </kbd>
+  </a>
+
+  <a href="https://medium.com/@amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="
+      background-color:black; color:white; border-radius:3px; padding:5px 12px; margin-right:6px; font-weight:bold;
+      transition: box-shadow 0.3s ease-in-out;
+      ">
+      MEDIUM
+    </kbd>
+  </a>
+
+  <a href="https://instagram.com/amitmakode" target="_blank" style="text-decoration:none;">
+    <kbd style="
+      background-color:black; color:white; border-radius:3px; padding:5px 12px; margin-right:6px; font-weight:bold;
+      transition: box-shadow 0.3s ease-in-out;
+      ">
+      INSTAGRAM
+    </kbd>
+  </a>
+</p>
+
+<style>
+  a kbd:hover {
+    box-shadow: 0 0 8px 3px #00ffff;
+    cursor: pointer;
+  }
+</style>
 
 
 
