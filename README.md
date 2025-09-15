@@ -59,4 +59,15 @@
 </p>
 
 
+## 📊 GitHub Stats & Languages
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Aamit's GitHub stats"/>
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=default" alt="Most Used Languages"/>
+</p>
+
+
 
