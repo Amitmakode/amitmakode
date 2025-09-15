@@ -1,23 +1,16 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
 
 
-👋 Hello, I’m **Aamit Kumar**, a **Data Scientist from India** with **5+ years of experience** in leveraging **machine learning, deep learning, and advanced statistical modeling** to solve complex business problems and drive data-powered innovation.
-
-💡 My expertise lies in designing and deploying **end-to-end data science solutions** — from **data acquisition and feature engineering** to **predictive modeling, optimization, and scalable deployment** — enabling organizations to move beyond dashboards and embrace **AI-driven decision-making**.
-
----
+👋 Hello, I’m **Aamit Kumar Makode**, a **Data Scientist @India** with **5+ years of experience** 
+🔭 I'm currently focused on Generative AI.
 
 ### 🌟 My Core Expertise
-
 🔹 **Machine Intelligence:** Machine Learning 🔥 | Deep Learning 🧠 | NLP 🗣️ | Computer Vision 👁️
 🔹 **Programming & Data Handling:** Python 🐍 | SQL 📊 | Data Pipelines | Cloud Integration (AWS ☁️, Snowflake ❄️)
 🔹 **Mathematical Foundation:** Statistics | Probability | Linear Algebra | Optimization Techniques
 🔹 **Visualization & Insights:** Power BI 📈 | Advanced Excel 📊 (supporting decision-making with context-rich insights)
 
----
-
 ### 🚀 What Defines Me as a Data Scientist
-
 ✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications
 ✔ Strong focus on **hypothesis testing, experimentation, and data-driven discovery**
 ✔ Ability to translate **complex models into clear, actionable strategies**
