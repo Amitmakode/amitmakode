@@ -38,3 +38,5 @@
 
 ⚡ **Fun Fact:** An **Internationally Certified Career Coach & Mentor**, helping aspiring data scientists shape impactful careers
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
