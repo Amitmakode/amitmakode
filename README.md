@@ -1,150 +1,89 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
 
-<h2>👋 Hi there, I'm <strong>Aamit Kumar</strong></h2>
+<h1 align="center">👋 Hi there, I'm Aamit Kumar</h1>
 
-💼 A <strong>Data Scientist @India</strong> with <strong>5+ years of experience</strong>.  
-🔭 Currently focused on <strong>Generative AI</strong>, expanding expertise in <strong>LLMs</strong> and <strong>advanced neural networks</strong>.  
-<!--🎓 Pursuing a <strong>PhD in Data Science</strong> to deepen research and applied knowledge.-->
+<h3 align="center">💼 Data Scientist | AI/ML Engineer | Generative AI Enthusiast</h3>
 
-### 🚀 What Defines Me as a Data Scientist  
-✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications  
-✔ Strong focus on **hypothesis testing, experimentation, and data-driven discovery**  
-✔ Ability to translate **complex models into clear, actionable strategies**  
-✔ Thrive in **Agile environments**, collaborating with diverse teams to bring AI into production  
+---
 
-💬 **Ask Me About:** Data Science, AI/ML, Applied Research, Career Growth in Data, and Real-World ML Deployment  
-📫 **Reach Me At:** [amitmakode007@gmail.com](mailto:amitmakode007@gmail.com)  
-⚡ **Fun Fact:** An **Internationally Certified Career Coach & Mentor**, helping aspiring data scientists shape impactful careers  
- 
-## 🛠️ Languages and Tools:
+## 🚀 About Me
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/snowflake.png" alt="Snowflake" width="40" height="40"/>
+💼 Data Scientist @ India with **5+ years of experience**  
+🔭 Currently focused on **Generative AI**, **LLMs**, and **Advanced Neural Networks**  
+📊 Passionate about solving real-world business problems using Data Science  
+🤝 Thrive in Agile environments, collaborating with teams to bring AI into production  
 
-  <!-- Cloud -->
-  <img src="https://img.icons8.com/fluency/48/google-cloud.png" alt="GCP" width="40" height="40"/>
+💬 **Ask Me About:** Data Science, AI/ML, Applied Research, Career Growth, Real-world ML Deployment  
+📫 **Reach Me At:** **amitmakode007@gmail.com**  
+⚡ **Fun Fact:** Internationally Certified Career Coach & Mentor
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/pycharm.png" alt="PyCharm" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="Hadoop" width="40" height="40"/>  
-  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Generative AI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/statistics.png" alt="Statistics" width="40" height="40"/>
-  <!-- AWS -->
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  <!-- Postman -->
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <!-- Visual Studio Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <!-- Apache Airflow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
-  <!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<!-- Flask -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+---
 
-<!-- Pandas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+## 🛠️ Languages and Tools
 
-<!-- NumPy -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<div align="left">
 
-<!-- scikit-learn -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-
-<!-- TensorFlow -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-
-<!-- PyTorch -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-
-<!-- Matplotlib -->
-<!--<img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>-->
-
-<!-- Seaborn -->
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="30"/>
-
-<!-- FastAPI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-
-</p>
-
-
-## 📊Languages
-
-<!-- GitHub Stats -->
-<p align="left">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Aamit's GitHub stats"/> -->
-  
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=default" alt="Most Used Languages"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/48/snowflake.png" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/48/google-cloud.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/48/pycharm.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
 
 </div>
 
-<!--## 🔗 Connect with me:-->
+---
 
-<!--<p align="left">
-  <a href="https://www.kaggle.com/amitmakode" target="_blank">
-    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
-      KAGGLE
-    </kbd>
-  </a>
+## 📊 GitHub Language Stats
 
-  <a href="https://yourwebsite.com" target="_blank">
-    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
-      WEBSITE
-    </kbd>
-  </a>
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=tokyonight"/>
+</p>
 
-  <a href="https://twitter.com/amitmakode" target="_blank">
-    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
-      TWITTER
-    </kbd>
-  </a>
+---
 
-  <a href="https://linkedin.com/in/amitmakode" target="_blank">
-    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
-      LINKEDIN
-    </kbd>
-  </a>
+## 🌐 Connect With Me
 
-  <a href="https://medium.com/@amitmakode" target="_blank">
-    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
-      MEDIUM
-    </kbd>
-  </a>
+<p align="left">
 
-  <a href="https://instagram.com/amitmakode" target="_blank">
-    <kbd style="background:white; color:#000; font-weight:bold; font-size:16px; padding:10px 18px; margin:8px 6px 8px 0; border-radius:8px; box-shadow:0 0 10px #0ff;">
-      INSTAGRAM
-    </kbd>
-  </a>
-</p>-->
+<a href="mailto:amitmakode007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/amitmakode">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</p>
 
+---
 
+## 💡 Quote
 
+> “Data can tell stories, but only if you know how to listen.”
 
-
-
-
-
+---
