@@ -15,7 +15,7 @@
 💬 **Ask Me About:** Data Science, AI/ML, Applied Research, Career Growth in Data, and Real-World ML Deployment  
 📫 **Reach Me At:** [amitmakode007@gmail.com](mailto:amitmakode007@gmail.com)  
 ⚡ **Fun Fact:** An **Internationally Certified Career Coach & Mentor**, helping aspiring data scientists shape impactful careers  
-
+ 
 ## 🛠️ Languages and Tools:
 
 <p align="left">
