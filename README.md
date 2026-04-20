@@ -1,21 +1,21 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amitmakode&color=blue&style=flat)
 
-<h1 align="center">👋 Hi there, I'm Aamit Kumar</h1>
+<h2>👋 Hi there, I'm <strong>Aamit Kumar</strong></h2>
 
-<h3 align="center">💼 Data Scientist | AI/ML Engineer | Generative AI Enthusiast</h3>
+💼 A <strong>Data Scientist @India</strong> with <strong>5+ years of experience</strong>.  
+🔭 Currently focused on <strong>Generative AI</strong>, expanding expertise in <strong>LLMs</strong> and <strong>advanced neural networks</strong>.  
+<!--🎓 Pursuing a <strong>PhD in Data Science</strong> to deepen research and applied knowledge.-->
 
----
+### 🚀 What Defines Me as a Data Scientist  
+✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications  
+✔ Strong focus on **hypothesis testing, experimentation, and data-driven discovery**  
+✔ Ability to translate **complex models into clear, actionable strategies**  
+✔ Thrive in **Agile environments**, collaborating with diverse teams to bring AI into production  
 
-## 🚀 About Me
-
-💼 Data Scientist @ India with **5+ years of experience**  
-🔭 Currently focused on **Generative AI**, **LLMs**, and **Advanced Neural Networks**  
-📊 Passionate about solving real-world business problems using Data Science  
-🤝 Thrive in Agile environments, collaborating with teams to bring AI into production  
-
-💬 **Ask Me About:** Data Science, AI/ML, Applied Research, Career Growth, Real-world ML Deployment  
-📫 **Reach Me At:** **amitmakode007@gmail.com**  
-⚡ **Fun Fact:** Internationally Certified Career Coach & Mentor
+💬 **Ask Me About:** Data Science, AI/ML, Applied Research, Career Growth in Data, and Real-World ML Deployment  
+📫 **Reach Me At:** [amitmakode007@gmail.com](mailto:amitmakode007@gmail.com)  
+⚡ **Fun Fact:** An **Internationally Certified Career Coach & Mentor**, helping aspiring data scientists shape impactful careers  
+ 
 
 ---
 
