@@ -2,7 +2,7 @@
 
 <h2>👋 Hi there, I'm <strong>Aamit Kumar</strong></h2>
 
-💼 A <strong>Data Scientist @India</strong> with <strong>5+ years of experience</strong>.  
+💼 A <strong>Data Scientist @India</strong> with <strong>8+ years of experience</strong>.  
 🔭 Currently focused on <strong>Generative AI</strong>, expanding expertise in <strong>LLMs</strong> and <strong>advanced neural networks</strong>.  
 <!--🎓 Pursuing a <strong>PhD in Data Science</strong> to deepen research and applied knowledge.-->
 
