@@ -66,45 +66,34 @@
   <img src="https://skillicons.dev/icons?i=py,r,sql,html,css,js&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="42" title="SciPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/seaborn.png" width="42" title="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="42" title="Plotly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" title="OpenCV"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" title="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="42" title="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XGBoost_logo.png" width="42" title="XGBoost"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="42" title="OpenAI / GPT"/>
-  <img src="https://raw.githubusercontent.com/huggingface/blog/main/assets/hf-logo-2.svg" width="42" title="Hugging Face"/>
-  <img src="https://static-00.iconduck.com/assets.00/langchain-icon-1024x1024-0lggd2sc.png" width="42" title="LangChain"/>
-  <img src="https://python.langchain.com/img/brand/wordmark.png" width="80" title="LangGraph / LangChain Ecosystem"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="42" title="LlamaIndex"/>
   <img src="https://ollama.com/public/ollama.png" width="42" title="Ollama"/>
   <img src="https://avatars.githubusercontent.com/u/85702467?s=200&v=4" width="42" title="Pinecone"/>
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/docs.trychroma.com/chroma.svg" width="42" title="ChromaDB"/>
   <img src="https://weaviate.io/img/site/weaviate-logo-light.png" width="80" title="Weaviate"/>
   <img src="https://qdrant.tech/images/logo_with_text.png" width="80" title="Qdrant"/>
   <img src="https://milvus.io/images/layout/milvus-logo.svg" width="80" title="Milvus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" title="Redis (Vector Search)"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="42" title="AWS"/>
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" width="42" title="Google Cloud"/>
-  <img src="https://img.icons8.com/fluency/48/microsoft-azure-2019.png" width="42" title="Azure"/>
   <img src="https://img.icons8.com/fluency/48/snowflake.png" width="42" title="Snowflake"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="42" title="Apache Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" title="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="42" title="Airflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="42" title="MLflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" title="Redis"/>
-  <img src="https://www.getdbt.com/ui/img/dbt-logo.svg" width="60" title="dbt"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="42" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="42" title="Tableau"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" title="Advanced Excel"/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,pycharm,flask,fastapi&theme=dark" />
 </p>
