@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="75%" valign="top">
 
 ✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications
 
@@ -56,13 +56,11 @@
 </td>
 <td width="25%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Languages & Tools
 
