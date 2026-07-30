@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 ✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications
 ✔ Strong focus on **hypothesis testing, experimentation, and data-driven discovery**
