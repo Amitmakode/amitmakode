@@ -117,6 +117,10 @@
   <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/output/profile-3d-contrib/profile-night-rainbow.gif" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/main/profile-night-rainbow.gif" width="100%"/>
+</p>
+
 ---
 
 ## 💡 Quote
