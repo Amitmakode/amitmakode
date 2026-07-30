@@ -101,7 +101,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,pycharm,flask,fastapi&theme=dark" />
 </p>
 
-------
+---
 
 ## 📊 GitHub Stats & Activity
 
@@ -114,28 +114,10 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/amitmakode?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata"/>
+  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
----
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitmakode&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<sub>⚙️ Snake graphic needs a one-time GitHub Actions setup — instructions below.</sub>
+<sub>⚙️ Snake animation needs a one-time GitHub Actions setup — instructions below.</sub>
 
 ---
 
