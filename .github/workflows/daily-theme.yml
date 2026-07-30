@@ -1,0 +1,32 @@
+name: Daily README Theme Switcher
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # runs 00:00 IST daily (18:30 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-theme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update README theme
+        run: python scripts/update_theme.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git commit -m "🎨 Auto theme update for $(date +%A)"; then
+            git push
+          fi
