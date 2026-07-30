@@ -202,6 +202,8 @@
 
 ---
 
+<!--THEME_FOOTER_START-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer"/>
 </p>
+<!--THEME_FOOTER_END-->
