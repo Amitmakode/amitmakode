@@ -106,17 +106,18 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=amitmakode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&ring=00C9A7&text_color=c9d1d9"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmakode&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmakode&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmakode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmakode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff&area=true&area_color=00C9A7"/>
 </p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/amitmakode?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata"/>
+</p>
+
+---
 
 ---
 
