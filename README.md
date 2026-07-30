@@ -37,19 +37,24 @@
 
 <table>
 <tr>
-<td width="80%" valign="top">
+<td width="100%" valign="top">
 
 ✔ Skilled in **building, training, and deploying AI/ML models** for real-world applications
+
 ✔ Strong focus on **hypothesis testing, experimentation, and data-driven discovery**
+
 ✔ Ability to translate **complex models into clear, actionable strategies**
+
 ✔ Thrive in **Agile environments**, collaborating with diverse teams to bring AI into production
 
 💬 **Ask Me About:** Data Science, AI/ML, Applied Research, Career Growth in Data, Real-World ML Deployment
+
 📫 **Reach Me At:** [amitmakode007@gmail.com](mailto:amitmakode007@gmail.com)
+
 ⚡ **Fun Fact:** Internationally Certified Career Coach & Mentor, helping aspiring data scientists shape impactful careers
 
 </td>
-<td width="40%" align="center">
+<td width="25%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300"/>
 
