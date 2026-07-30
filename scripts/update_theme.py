@@ -58,6 +58,16 @@ content = re.sub(
     content, flags=re.DOTALL
 )
 
+# --- Update Footer ---
+footer_block = f'''<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color={theme['grad']}&height=100&section=footer"/>
+</p>'''
+content = re.sub(
+    r"(<!--THEME_FOOTER_START-->)(.*?)(<!--THEME_FOOTER_END-->)",
+    lambda m: f"{m.group(1)}\n{footer_block}\n{m.group(3)}",
+    content, flags=re.DOTALL
+)
+
 with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(content)
 
