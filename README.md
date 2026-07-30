@@ -114,10 +114,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/output/profile-3d-contrib/profile-night-rainbow.gif" width="100%"/>
 </p>
-
-<sub>⚙️ Snake animation needs a one-time GitHub Actions setup — instructions below.</sub>
 
 ---
 
