@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 <!--THEME_BANNER_START-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:4a00e0,100:8e2de2&height=220&section=header&text=Aamit%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20GenAI%20%7C%20LLMs%20%7C%20MLOps%20Engineer&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c9ff&height=220&section=header&text=Aamit%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20GenAI%20%7C%20LLMs%20%7C%20MLOps%20Engineer&descAlignY=55&descSize=20"/>
 </p>
 <!--THEME_BANNER_END-->
 
@@ -9,7 +9,7 @@
 <!--THEME_TYPING_START-->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Data+Scientist+%40+India+%7C+8%2B+Years+Experience;Building+%26+Deploying+AI%2FML+Models;Exploring+Generative+AI+%26+LLMs;Turning+Data+into+Actionable+Stories" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%40+India+%7C+8%2B+Years+Experience;Building+%26+Deploying+AI%2FML+Models;Exploring+Generative+AI+%26+LLMs;Turning+Data+into+Actionable+Stories" alt="Typing SVG" />
   </a>
 </p>
 <!--THEME_TYPING_END-->
@@ -129,10 +129,10 @@
 
 <!--THEME_STATS_START-->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmakode&theme=merko&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmakode&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmakode&theme=github-compact&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmakode&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 <!--THEME_STATS_END-->
 
@@ -154,6 +154,6 @@
 
 <!--THEME_FOOTER_START-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:4a00e0,100:8e2de2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c9ff&height=100&section=footer"/>
 </p>
 <!--THEME_FOOTER_END-->
