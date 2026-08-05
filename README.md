@@ -144,7 +144,6 @@
 
 ## 💡 Quote
 
-## 💡 Quote
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&width=750&height=60&lines=%22Data+can+tell+stories%2C+but+only+if+you+know+how+to+listen.%22;%22In+God+we+trust.+All+others+must+bring+data.%22;%22Without+data%2C+you%27re+just+another+person+with+an+opinion.%22;%22The+best+thing+about+a+boolean+is+even+if+you+are+wrong%2C+you+are+only+off+by+a+bit.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22" alt="Rotating Quotes"/>
