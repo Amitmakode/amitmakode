@@ -129,15 +129,20 @@
 
 <!--THEME_STATS_START-->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmakode&theme=synthwave&hide_border=true&background=0D1117"/>
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmakode&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 <!--THEME_STATS_END-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/main/profile-3d-contrib/profile-night-rainbow.gif" width="100%"/>
+</p>
+
+---
+
+## 🎯 Role Spotlight — Data Science Career Paths
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/main/assets/role-card.svg" width="100%"/>
 </p>
 
 ---
