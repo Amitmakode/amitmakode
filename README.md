@@ -126,24 +126,19 @@
 
 ## 🎯 Role Spotlight — Data Science Career Paths
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=5000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1200&height=80&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/main/assets/role-card.svg" width="100%"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=5000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1200&height=80&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
-</p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=950&height=70&vCenter=true&repeat=true&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=1E3A8A&center=true&vCenter=true&width=900&height=60&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
-</p>
 
 ## 💡 Quote
 
