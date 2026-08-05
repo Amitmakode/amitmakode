@@ -71,7 +71,7 @@ ROLES = [
 PALETTE = ["#00C9A7", "#FF512F", "#8E2DE2", "#26D0CE", "#38EF7D", "#00C9FF", "#DD2476"]
 
 # Rotation cadence: pick a new role every N minutes (must match the workflow's cron).
-MINUTES_PER_ROLE = 10
+MINUTES_PER_ROLE = 1
 
 OUTPUT_PATH = "assets/role-card.svg"
 
