@@ -128,17 +128,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=5000&pause=2000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=1200&height=80&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/main/assets/role-card.svg" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=5000&pause=2000&color=111184&center=true&vCenter=true&repeat=true&width=1200&height=80&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
 </p>
 
 ---
-
-
-
 
 ## 💡 Quote
 
