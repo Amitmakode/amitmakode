@@ -134,7 +134,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=950&height=70&vCenter=true&repeat=true&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=950&height=70&vCenter=true&repeat=true&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=1E3A8A&center=true&vCenter=true&width=900&height=60&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
 </p>
 
 ## 💡 Quote
