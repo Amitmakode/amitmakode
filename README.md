@@ -149,9 +149,8 @@
 
 ## 💡 Quote
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&width=750&height=60&lines=%22Data+can+tell+stories%2C+but+only+if+you+know+how+to+listen.%22;%22In+God+we+trust.+All+others+must+bring+data.%22;%22Without+data%2C+you%27re+just+another+person+with+an+opinion.%22;%22The+best+thing+about+a+boolean+is+even+if+you+are+wrong%2C+you+are+only+off+by+a+bit.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22" alt="Rotating Quotes"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&width=900&height=60&lines=%22Success+is+the+sum+of+small+efforts%2C+repeated+day+in+and+day+out.%22+%E2%80%94+Robert+Collier;%22It%27s+not+that+I%27m+so+smart.+It%27s+just+that+I+stay+with+problems+longer.%22+%E2%80%94+Albert+Einstein;%22The+beautiful+thing+about+learning+is+that+no+one+can+take+it+away+from+you.%22+%E2%80%94+B.B.+King;%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22Stay+hungry%2C+stay+foolish.%22+%E2%80%94+Steve+Jobs" alt="Rotating Quotes"/>
 </p>
 
 > "Data can tell stories, but only if you know how to listen."
