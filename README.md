@@ -122,21 +122,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,pycharm,flask,fastapi&theme=dark" />
 </p>
 
-
----
-
-## 📊 GitHub Stats & Activity
-
-<!--THEME_STATS_START-->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmakode&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
-<!--THEME_STATS_END-->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitmakode/amitmakode/main/profile-3d-contrib/profile-night-rainbow.gif" width="100%"/>
-</p>
-
 ---
 
 ## 🎯 Role Spotlight — Data Science Career Paths
