@@ -9,7 +9,7 @@
   <rect x="0" y="0" width="700" height="366" rx="16" fill="url(#bg)" stroke="#233240" stroke-width="1"/>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="1;0;0" keyTimes="0.00000;0.11111;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;0" keyTimes="0.00000;0.11111;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Data Analyst
@@ -44,12 +44,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">70%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 1 of 9 &#8226; changes every 60s
+      Role 1 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.11111;0.22222;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.11111;0.22222;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Data Scientist
@@ -84,12 +84,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">80%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 2 of 9 &#8226; changes every 60s
+      Role 2 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.22222;0.33333;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.22222;0.33333;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Data Engineer
@@ -124,12 +124,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">75%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 3 of 9 &#8226; changes every 60s
+      Role 3 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.33333;0.44444;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.33333;0.44444;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       AI / ML Engineer
@@ -164,12 +164,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">75%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 4 of 9 &#8226; changes every 60s
+      Role 4 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.44444;0.55556;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.44444;0.55556;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       ML Engineer
@@ -204,12 +204,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">80%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 5 of 9 &#8226; changes every 60s
+      Role 5 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.55556;0.66667;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.55556;0.66667;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       MLOps Engineer
@@ -244,12 +244,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">80%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 6 of 9 &#8226; changes every 60s
+      Role 6 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.66667;0.77778;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.66667;0.77778;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       GenAI Engineer
@@ -284,12 +284,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">75%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 7 of 9 &#8226; changes every 60s
+      Role 7 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.77778;0.88889;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.77778;0.88889;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       GenAI Cloud Engineer
@@ -324,12 +324,12 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">75%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 8 of 9 &#8226; changes every 60s
+      Role 8 of 9 &#8226; changes every 20s
     </text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.88889;1.00000;1.00000" calcMode="discrete" dur="540s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.88889;1.00000;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
 
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Business Analyst
@@ -364,7 +364,7 @@
     <text x="634" y="287" font-family="'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="600" fill="#38EF7D">80%</text>
 
     <text x="350.0" y="348" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="11" fill="#5b6773">
-      Role 9 of 9 &#8226; changes every 60s
+      Role 9 of 9 &#8226; changes every 20s
     </text>
   </g>
 </svg>
