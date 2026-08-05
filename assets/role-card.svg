@@ -5,12 +5,118 @@
       <stop offset="50%" stop-color="#12222b"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
+    <style>
+
+    @keyframes roleFrame0 {
+      0% { opacity: 0; }
+      0.0% { opacity: 1; }
+      11.1111% { opacity: 1; }
+      11.1111% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-0 {
+      animation: roleFrame0 180s linear infinite;
+    }
+
+    @keyframes roleFrame1 {
+      0% { opacity: 0; }
+      11.1111% { opacity: 0; }
+      11.1111% { opacity: 1; }
+      22.2222% { opacity: 1; }
+      22.2222% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-1 {
+      animation: roleFrame1 180s linear infinite;
+    }
+
+    @keyframes roleFrame2 {
+      0% { opacity: 0; }
+      22.2222% { opacity: 0; }
+      22.2222% { opacity: 1; }
+      33.3333% { opacity: 1; }
+      33.3333% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-2 {
+      animation: roleFrame2 180s linear infinite;
+    }
+
+    @keyframes roleFrame3 {
+      0% { opacity: 0; }
+      33.3333% { opacity: 0; }
+      33.3333% { opacity: 1; }
+      44.4444% { opacity: 1; }
+      44.4444% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-3 {
+      animation: roleFrame3 180s linear infinite;
+    }
+
+    @keyframes roleFrame4 {
+      0% { opacity: 0; }
+      44.4444% { opacity: 0; }
+      44.4444% { opacity: 1; }
+      55.5556% { opacity: 1; }
+      55.5556% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-4 {
+      animation: roleFrame4 180s linear infinite;
+    }
+
+    @keyframes roleFrame5 {
+      0% { opacity: 0; }
+      55.5556% { opacity: 0; }
+      55.5556% { opacity: 1; }
+      66.6667% { opacity: 1; }
+      66.6667% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-5 {
+      animation: roleFrame5 180s linear infinite;
+    }
+
+    @keyframes roleFrame6 {
+      0% { opacity: 0; }
+      66.6667% { opacity: 0; }
+      66.6667% { opacity: 1; }
+      77.7778% { opacity: 1; }
+      77.7778% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-6 {
+      animation: roleFrame6 180s linear infinite;
+    }
+
+    @keyframes roleFrame7 {
+      0% { opacity: 0; }
+      77.7778% { opacity: 0; }
+      77.7778% { opacity: 1; }
+      88.8889% { opacity: 1; }
+      88.8889% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    #role-7 {
+      animation: roleFrame7 180s linear infinite;
+    }
+
+    @keyframes roleFrame8 {
+      0% { opacity: 0; }
+      88.8889% { opacity: 0; }
+      88.8889% { opacity: 1; }
+      100.0% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    #role-8 {
+      animation: roleFrame8 180s linear infinite;
+    }
+    </style>
   </defs>
   <rect x="0" y="0" width="700" height="366" rx="16" fill="url(#bg)" stroke="#233240" stroke-width="1"/>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="1;0;0" keyTimes="0.00000;0.11111;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-0" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Data Analyst
     </text>
@@ -48,9 +154,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.11111;0.22222;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-1" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Data Scientist
     </text>
@@ -88,9 +192,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.22222;0.33333;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-2" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Data Engineer
     </text>
@@ -128,9 +230,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.33333;0.44444;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-3" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       AI / ML Engineer
     </text>
@@ -168,9 +268,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.44444;0.55556;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-4" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       ML Engineer
     </text>
@@ -208,9 +306,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.55556;0.66667;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-5" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       MLOps Engineer
     </text>
@@ -248,9 +344,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.66667;0.77778;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-6" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       GenAI Engineer
     </text>
@@ -288,9 +382,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.77778;0.88889;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-7" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       GenAI Cloud Engineer
     </text>
@@ -328,9 +420,7 @@
     </text>
   </g>
 
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.00000;0.88889;1.00000;1.00000" calcMode="discrete" dur="180s" begin="0s" repeatCount="indefinite"/>
-
+  <g id="role-8" opacity="0">
     <text x="350.0" y="42" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="26" font-weight="700" fill="#00C9A7">
       Business Analyst
     </text>
