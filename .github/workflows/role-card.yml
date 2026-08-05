@@ -1,11 +1,11 @@
 name: Generate Role & Skills Card
 
-# This workflow only needs to run ONCE (or whenever you edit the roles/skills
-# in scripts/generate_role_card.py). The role rotation itself happens live
-# inside the generated SVG using built-in animation — no scheduled runs needed.
-
 on:
+  schedule:
+    - cron: "*/5 * * * *"   # Every 5 minutes
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -18,22 +18,29 @@ permissions:
 jobs:
   update-role-card:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
 
-      - name: Set up Python
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Generate role & skills card
-        run: python scripts/generate_role_card.py
-
-      - name: Commit & Push
+      - name: Generate Role Card
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          python scripts/generate_role_card.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/role-card.svg
-          if git commit -m "🎯 Regenerated role card"; then
-            git push
-          fi
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m "🔄 Auto update role card"
+
+          git push
