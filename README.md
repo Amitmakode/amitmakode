@@ -128,7 +128,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=52&duration=4000&pause=2000&color=ff4d00&center=true&vCenter=true&repeat=true&width=1200&height=80&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=52&duration=4000&pause=2000&color=ff4d00&center=true&vCenter=true&repeat=true&width=1200&height=80&lines=Business+Analyst;Data+Analyst;Data+Scientist;Data+Engineer;ML+Engineer;AI%2FML+Engineer;GenAI+Engineer;GenAI+%26+Cloud+Engineer" alt="Typing SVG" />
 </p>
 
 ---
