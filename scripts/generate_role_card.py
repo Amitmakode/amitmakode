@@ -6,7 +6,7 @@ ROLES = [
         "title": "Data Analyst",
         "skills": [
             ("Python", 80), ("SQL", 90), ("Power BI", 85),
-            ("Advanced Excel", 90), ("Tableau", 70),
+            ("Advanced Excel", 90), ("Tableau", 70),("Statistics", 50)
         ],
     },
     {
@@ -71,7 +71,7 @@ PALETTE = ["#00C9A7", "#FF512F", "#8E2DE2", "#26D0CE", "#38EF7D", "#00C9FF", "#D
 
 # How long each role stays visible before switching (seconds).
 # Total loop time = SECONDS_PER_ROLE * number_of_roles, then it repeats forever.
-SECONDS_PER_ROLE = 20   # <-- change this single number to speed up/slow down rotation
+SECONDS_PER_ROLE = 10   # <-- change this single number to speed up/slow down rotation
 
 OUTPUT_PATH = "assets/role-card.svg"
 
