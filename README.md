@@ -150,7 +150,7 @@
 ## 💡 Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&width=900&height=60&lines=%22Success+is+the+sum+of+small+efforts%2C+repeated+day+in+and+day+out.%22+%E2%80%94+Robert+Collier;%22It%27s+not+that+I%27m+so+smart.+It%27s+just+that+I+stay+with+problems+longer.%22+%E2%80%94+Albert+Einstein;%22The+beautiful+thing+about+learning+is+that+no+one+can+take+it+away+from+you.%22+%E2%80%94+B.B.+King;%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22Stay+hungry%2C+stay+foolish.%22+%E2%80%94+Steve+Jobs" alt="Rotating Quotes"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=00C9A7&center=true&vCenter=true&width=1200&height=60&lines=%22Success+is+the+sum+of+small+efforts%2C+repeated+day+in+and+day+out.%22+%E2%80%94+Robert+Collier;%22It%27s+not+that+I%27m+so+smart.+It%27s+just+that+I+stay+with+problems+longer.%22+%E2%80%94+Albert+Einstein;%22The+beautiful+thing+about+learning+is+that+no+one+can+take+it+away+from+you.%22+%E2%80%94+B.B.+King;%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+%E2%80%94+Steve+Jobs;%22Stay+hungry%2C+stay+foolish.%22+%E2%80%94+Steve+Jobs" alt="Rotating Quotes"/>
 </p>
 
 > "Data can tell stories, but only if you know how to listen."
